@@ -1,0 +1,4 @@
+productId      productName   productDesc         price    unit
+              1         Apple       IMac by Apple    45.34       12
+              2       Samsung   Mobile by Samsung   433.56       34
+              3        Xiaomi            TV by MI   234.12       33

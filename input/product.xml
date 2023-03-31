@@ -1,0 +1,23 @@
+<products>
+    <product>
+        <productId>1</productId>
+        <productName>Apple iMac</productName>
+        <productDesc>Tab by Apple</productDesc>
+        <price>150.67</price>
+        <unit>6</unit>
+    </product>
+    <product>
+        <productId>2</productId>
+        <productName>Samsung</productName>
+        <productDesc>Mobile by Samsung</productDesc>
+        <price>153.22</price>
+        <unit>18</unit>
+    </product>
+    <product>
+        <productId>3</productId>
+        <productName>MI</productName>
+        <productDesc>Xioami TV by MI</productDesc>
+        <price>367.67</price>
+        <unit>7</unit>
+    </product>
+</products>

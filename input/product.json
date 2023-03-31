@@ -1,0 +1,16 @@
+[
+  {
+    "productId": 1,
+    "productName": "Asus",
+    "productDesc": "Mobile by Asus",
+    "price": 300.12,
+    "unit": 10
+  },
+  {
+    "productId": 2,
+    "productName": "Sony",
+    "productDesc": "Laptop by Sony",
+    "price": 240.45,
+    "unit": 13
+  }
+]
